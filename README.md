@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Vitor Sousa - Full-Stack Engineer" width="100%" />
+  <img src="assets/profile-banner-v2.svg" alt="Vitor Sousa - Full-Stack Engineer" width="100%" />
 </p>
 
 <p align="center">
