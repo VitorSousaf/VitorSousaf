@@ -28,7 +28,7 @@ I am a **full-stack engineer** focused on building reliable web and mobile appli
 ## Core stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,nestjs,postgres,supabase,redis,expo,docker,aws,vercel,vitest,jest,playwright,githubactions,git" alt="Core technology stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,nestjs,postgres,supabase,redis,docker,aws,vercel,vitest,jest,githubactions,git" alt="Core technology stack" />
 </p>
 
 ### Languages
