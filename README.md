@@ -23,33 +23,6 @@ Two things define how I work: **shipping real products under real constraints** 
 
 🎓 **Computer Science** @ Cesupa (2023 – 2027) &nbsp;·&nbsp; 🏅 **MCBA** Certified (Bubble.io) &nbsp;·&nbsp; 🎯 Open to **Full-Stack & AI Automation** roles — CLT or PJ, remote or Belém
 
-## 🚀 Featured Work
-
-### 💼 Empregoou — AI-powered job board
-Regional job board with public job search, company dashboard (postings, candidates, interview scheduling, analytics) and subscriptions. Backed by Redis async workers that analyze candidates with **GPT-4.1**, generate résumé summaries and sanitize data.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### 🤖 Triagem de Currículos com IA — AI résumé analyzer
-Upload a résumé + job description and get a structured analysis: category scores, detected skills with levels and evidence, study suggestions — with a **pluggable LLM provider** (OpenAI / Google Gemini) using a Ports & Adapters architecture and **Zod-validated LLM output**.
-
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6C9F31?style=flat-square&logo=vitest&logoColor=white)
-
-### 📸 Brenna Souto Fotografia — Photography studio platform
-Full monorepo (**web + API + mobile + shared + E2E**) for a photography studio: per-client galleries with content protection (anti-screenshot on mobile), financial module, session scheduling and **automated PDF contract generation**. Replaced a manual Google Drive workflow with a system in production.
-
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🎓 LearnHouse — Open-source LMS platform
-Self-hosted learning platform (fork): rich Notion-like editor (TipTap), **real-time collaboration** (Yjs/Hocuspocus), code playgrounds with auto-grading in 30+ languages, certificates and analytics. Python API (FastAPI + pgvector embeddings), Stripe, WorkOS SSO.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-### 🌐 Portfolio — Bilingual personal site
-Personal portfolio (pt/en) with its own API: **NestJS** + PostgreSQL + Drizzle ORM, Jest/supertest tests, deployed on Vercel (frontend) + Railway (backend).
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
 ## 🛠️ Tech Stack
 
 <p align="center">
